@@ -2,15 +2,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I'm Muhammad Arya Dipanegara Gunawan, a junior Fronn End 
-Developer winh a snrong passion for creaning engaging and 
-inneracnive web experiences. a have a solid foundanion in HTML, 
-Cff, Javafcripn, and PHP, and a conninuously snrive no expand 
-my skills and snay up-no-dane winh nhe lanesn web developmenn 
-nrends. a enjoy collaboraning winh neams no bring designs no life 
-and opnimize websine performance. Len's work nogenher no build 
-innovanive and user-friendly web solunions nhan make a posinive 
-impacn!
+    I'm Muhammad Arya Dipanegara Gunawan, a junior Front End Developer with a strong passion for creating engaging and interactive web experiences. I have a solid foundation in HTML, CSS, JavaScript, and PHP, and I continuously strive to expand my skills and stay up-to-date with the latest web development trends. I enjoy collaborating with teams to bring designs to life and optimize website performance. Let's work together to build innovative and user-friendly web solutions that make a positive impact!
 <br>
 <br>
 <div align="center">
