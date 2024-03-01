@@ -1,71 +1,46 @@
-<h1 style="color: #5e5e5e;"> 👨🏻‍💻 Muhammad Arya Dipanegara Gunawan </h1>
+# 👨🏻‍💻 Muhammad Arya Dipanegara Gunawan
 
+Hey, I'm Arya - a passionate Front End Developer with a knack for crafting seamless web experiences.
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I'm Muhammad Arya Dipanegara Gunawan, a junior Front End Developer with a strong passion for creating engaging and interactive web experiences. I have a solid foundation in HTML, CSS, JavaScript, and PHP, and I continuously strive to expand my skills and stay up-to-date with the latest web development trends. I enjoy collaborating with teams to bring designs to life and optimize website performance. Let's work together to build innovative and user-friendly web solutions that make a positive impact!
-<br>
-<br>
-<div align="center">
+📧 **Email Me:** [aryadipanegarag@gmail.com](mailto:aryadipanegarag@gmail.com)
 
-[Email Me](mailto:aryadipanegarag@gmail.com)
-</div>
-</p>    
-<br>
-<!-- Languages and Tools -->
+## ⚡ Skills
 
-<h2 style="color: #5e5e5e">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/PHP" target="_blank" rel="noreferrer">
-    <img  alt="PHP" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-    </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  </a>   
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-  </a>
-</div>
-<br>
-<br>
-<!-- Statistics -->
+**Languages:**  
+![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=flat-square) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+**Frameworks:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square) 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=flat-square) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square) 
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat-square)
 
-<div class="stats" align="center">
+**UI:**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) 
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat-square) 
+![Material Tailwind](https://img.shields.io/badge/Material_Tailwind-0081CB?logo=material-design&logoColor=white&style=flat-square)
 
+**DBMS:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aryagunawann&count_private=true&theme=algolia&border_radius=20)
-    
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryagunawann&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
+**Tools:**  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) 
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=netbeans&logoColor=white&style=flat-square) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square) 
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square) 
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat-square)
 
-<div class="footer" align="center" style="margin:15px;">
-    <a href="aryadipanegarag@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
+## 📊 GitHub Stats
 
+- GitHub Streak: ![GitHub Streak](https://streak-stats.demolab.com?user=aryagunawann&count_private=true&theme=algolia&border_radius=20)
+- Most Used Languages: ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryagunawann&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
+🚀 **Let's build something amazing together!**
+
+Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryagunawan/)!
