@@ -6,8 +6,4 @@
 <h2 align="center">Portfolio</h2>
 <p align="center">Check out my <a href="https://aryagunawann.vercel.app">portfolio</a> to see some of my projects and creations.</p>
 
-<h2 align="center">Let's Connect!</h2>
-<p align="center">Find me on:</p>
-
-
 <p align="center">Let's create something awesome together! 😊🌟</p>
