@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Arya Gunawan
+# 👋 Hi, I'm Arya Dipanegara
 
 ### *Junior Front End Developer*
 
 🚀 Passionate about crafting delightful web experiences!
 
 ## Portfolio
-Check out my [portfolio](https://aryagunawann.vercel.app) to see some of my projects and creations.
+Check out my [portfolio](https://aryadipanegara.my.id) to see some of my projects and creations.
 
 Let's create something awesome together! 😊🌟
 
@@ -17,4 +17,4 @@ Let's create something awesome together! 😊🌟
 
 ---
 
-&copy; 2024 Arya Gunawan
+&copy; 2024 Arya Dipanegara
