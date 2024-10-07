@@ -1,9 +1,20 @@
-<h1 align="center">👋 Hi, I'm Arya Gunawan</h1>
-<p align="center"><i>Junior Front End Developer</i></p>
+# 👋 Hi, I'm Arya Gunawan
 
-<p align="center">🚀 Passionate about crafting delightful web experiences!</p>
+### *Junior Front End Developer*
 
-<h2 align="center">Portfolio</h2>
-<p align="center">Check out my <a href="https://aryagunawann.vercel.app">portfolio</a> to see some of my projects and creations.</p>
+🚀 Passionate about crafting delightful web experiences!
 
-<p align="center">Let's create something awesome together! 😊🌟</p>
+## Portfolio
+Check out my [portfolio](https://aryagunawann.vercel.app) to see some of my projects and creations.
+
+Let's create something awesome together! 😊🌟
+
+[![WakaTime](https://wakatime.com/badge/user/018b8591-8231-4c0a-916a-775c20ffd05c.svg)](https://wakatime.com/@018b8591-8231-4c0a-916a-775c20ffd05c)
+
+| WakaTime Stats | Most Used Languages |
+|----------------|---------------------|
+| ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryadipanegara&theme=tokyonight&layout=compact&langs_count=10&range=all_time) | ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aryadipanegara&langs_count=10&theme=tokyonight&layout=compact&hide=hack) |
+
+---
+
+&copy; 2024 Arya Gunawan
