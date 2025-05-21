@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arya Dipanegara
 
-### *Junior Front End Developer*
+### *Front End Developer*
 
 🚀 Passionate about crafting delightful web experiences!
 
